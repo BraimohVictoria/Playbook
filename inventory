@@ -1,0 +1,6 @@
+[centos-slave]
+192.168.33.50
+
+[ubuntu-slave]
+192.168.33.51
+
